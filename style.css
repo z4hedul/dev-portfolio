@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+.freestyledisplay{
+    display: flex;
+}
+.divstyle{
+    margin: 50px;
+    padding: 10px;
+
+}
+h1 {
+    font-size: 50px;
+}
+.color{
+    color: deeppink;
+}
+.startline{
+    color: red;
+}
+.decoration{
+    text-align: justify;
+}
+.linkbuttom{
+text-decoration: none;
+background-image: linear-gradient(green,red);
+}
+
+.linkbuttom:hover {
+    background-image: linear-gradient(tomato,pink);
+    color: white;
+}
+.imagecss{
+    border-radius: 20px;
+}
